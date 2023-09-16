@@ -17,7 +17,7 @@ Welcome to the Password Generator App! This simple and secure application is des
 ## App Live Link: https://passwordgeneratorsite.vercel.app/
 
 
-![Alt text](<Screenshot (124).png>)
+![Screenshot (124)](https://github.com/santoshinij7/30-Projects-30-days/assets/83078159/d8c2e946-2654-4412-b73d-0abd6cc52e34)
 
 
 **Stay secure, and happy generating!**
