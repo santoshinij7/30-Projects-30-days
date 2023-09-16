@@ -1,20 +1,25 @@
-.grid {
-    width: 200px;
-    height: 200px;
+body {
     display: flex;
-    flex-wrap: wrap;
-    border-style: solid;
-  }
-  
-  .grid div {
-    width: 20px;
-    height: 20px;
-  }
-  
-  .snake {
-    background-color: blue;
-  }
-  
-  .apple {
-    background-color: purple;
-  }
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #333;
+}
+
+.game-container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: #444;
+}
+
+#snake {
+    position: absolute;
+    background-color: #00f;
+}
+
+#food {
+    position: absolute;
+    background-color: #f00;
+}
